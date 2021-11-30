@@ -9,6 +9,7 @@ function welcomeMessage(){
     return message;
 }
 
+
 content = welcomeMessage() + "\n Version Number: " + versionNumber
 
 // set the view engine to ejs
